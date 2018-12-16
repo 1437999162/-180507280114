@@ -9,3 +9,4 @@ Author: plen-wang <wangqingpei557@163.com>
 设置全局用户名、邮箱，git config --global user.name “plen-wang”，git config –global user.email “plen-wang@163.com”
 设置当前仓库的用户名、邮箱，git config user.name “plen-wang-xxx”，git config user.email “plen-wang-xxx@163.com”
 你可以通过git config --list 来查看所有的配置
+实在是不会写
